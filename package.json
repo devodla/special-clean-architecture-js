@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/onlyreynaldo/special-clean-architecture-js/issues"
   },
-  "homepage": "https://github.com/onlyreynaldo/special-clean-architecture-js#readme"
+  "homepage": "https://github.com/onlyreynaldo/special-clean-architecture-js#readme",
+  "devDependencies": {
+    "standard": "^16.0.3"
+  }
 }
