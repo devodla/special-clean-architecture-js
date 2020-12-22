@@ -4,7 +4,8 @@
   "description": "Special learn Clean Architecture with @rmanguinho",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test:staged": "jest"
   },
   "standard":{
     "env": ["jest"]
