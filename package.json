@@ -6,18 +6,12 @@
   "scripts": {
     "test": "jest"
   },
-  "lint-staged": {
-    "*.js": [
-      "standard --fix",
-      "git add"
-    ]
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/onlyreynaldo/special-clean-architecture-js.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Layme, Reynaldo",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/onlyreynaldo/special-clean-architecture-js/issues"
